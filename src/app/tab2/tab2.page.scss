@@ -1,1 +1,27 @@
 
+ion-img{
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.back{
+    height: 100px;
+    background-color:#c7c4c4;
+}
+ion-card{
+    width: 100%;
+    margin-left: 0%;
+    box-shadow: none;
+}
+ion-card-header{
+    color: black;
+    background-color: #e0dede;
+    font-size: 18px;
+}
+.icon{
+    float: right;
+}
