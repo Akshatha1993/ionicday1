@@ -1,5 +1,7 @@
 {
   "name": "ionicday1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
